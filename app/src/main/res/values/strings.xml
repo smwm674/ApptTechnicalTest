@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apptdemo</string>
+    <string name="enter_lati_longi">Enter a Latitude and longitude below</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="location">Your Location</string>
+</resources>
